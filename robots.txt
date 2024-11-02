@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epiziaqo.github.io/Qxd/sitemap_index.txt
+Sitemap: https://epiziaqo.github.io/kqv/sitemap_index.txt
+Sitemap: https://epiziaqo.github.io/njD/sitemap_index.txt
+Sitemap: https://epiziaqo.github.io/owd/sitemap_index.txt
